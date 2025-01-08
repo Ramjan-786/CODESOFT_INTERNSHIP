@@ -1,6 +1,3 @@
-
-Congratulations on completing your Java Programming virtual internship with CodSoft! Here's a personalized statement you can use to reflect on your achievement:
-
 🌟 I am thrilled to have completed my Java Programming virtual internship with CodSoft! 🌟
 
 Throughout this internship, I gained valuable hands-on experience in Java programming, enhancing my understanding of key concepts like object-oriented programming, collections, and exception handling. I developed real-world applications, collaborated with a talented team, and worked with industry-standard tools and methodologies.
